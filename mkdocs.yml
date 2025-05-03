@@ -1,0 +1,17 @@
+site_name: "Personal Notes"
+site_description: "A simple MkDocs site to capture ideas and notes."
+nav:
+  - Home: index.md
+  - Ideas: ideas.md
+  - Templates: templates.md
+theme:
+  name: "material"
+  features:
+    - navigation.instant
+    - navigation.sections
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
