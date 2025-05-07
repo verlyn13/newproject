@@ -1,5 +1,7 @@
 # Ideas
 
+This is a change. 
+
 This page is your brainstorming area. Write down your project ideas, research questions, or design sketches here.
 
 ## How to Use
